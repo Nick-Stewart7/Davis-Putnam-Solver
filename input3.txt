@@ -1,0 +1,8 @@
+1 2
+-1
+-2 -3
+-3 -4
+3 4
+3
+0
+This input does not have a satisfying assignment
